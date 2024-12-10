@@ -32,7 +32,7 @@ import com.example.repository.DAO;
 
 
 @RestController
-@CrossOrigin(origins ="*")
+@CrossOrigin(origins = "*")
 public class UserService {
 
     @Autowired
